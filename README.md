@@ -4,8 +4,8 @@ Full pipeline from downloading dataset to inferencing on test set in MMDetection
 # Usage
 
 ## Requirements for Inference
-Torch==1.13.0+cpu
-Torchvision==0.14.0+cpu
+\nTorch==1.13.0+cpu
+\nTorchvision==0.14.0+cpu
 MMDetection==2.22.0
 MMCV==1.4.5
 
