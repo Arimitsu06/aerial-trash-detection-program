@@ -9,10 +9,11 @@ Torchvision==0.14.0+cpu
 MMDetection==2.22.0
 MMCV==1.4.5
 
-Kaggle notebook links: 
+
+# Kaggle notebook links 
 https://www.kaggle.com/vexxingbanana/uavvaste-training
 https://www.kaggle.com/vexxingbanana/uavvaste-dataset-creator-l
 
-Credits:
+# Credits
 UAVVaste Dataset
 https://github.com/UAVVaste/UAVVaste
