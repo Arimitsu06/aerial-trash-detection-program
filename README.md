@@ -12,6 +12,7 @@ MMDetection==2.22.0
 
 MMCV==1.4.5
 
+Opencv-headless (will not work with regular opencv-python)
 
 # Kaggle notebook links 
 https://www.kaggle.com/vexxingbanana/uavvaste-training
